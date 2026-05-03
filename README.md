@@ -1,1 +1,2 @@
-# financial_analytics_lab_1_julia_navarro
+# PADS Insper - Financial Analytics
+## Lab 1 - Julia Navarro Borges
